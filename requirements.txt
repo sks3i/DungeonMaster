@@ -1,0 +1,16 @@
+# Audio processing
+pyaudio
+pynput
+numpy
+
+# Machine Learning
+jax[cuda]  # For GPU support
+transformers
+flax
+soundfile
+
+# Text-to-Speech (for testing)
+gtts
+
+# others
+tqdm
